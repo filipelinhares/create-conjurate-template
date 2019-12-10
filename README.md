@@ -7,7 +7,7 @@ cd your-template-name
 npx trash .git
 ```
 
-## 2.0 Configure your *./index.js* as you do in *templates* config inside *.conjurate.json*.
+## 2.0 Configure your *./index.js* as you do in *templates* config inside *.conjurate.json*
 
 ```js
 module.exports = {

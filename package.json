@@ -1,6 +1,6 @@
 {
   "name": "create-conjurate-template",
-  "version": "1.0.0",
+  "version": "0.1.0",
   "description": "Start a conjurate template package",
   "main": "index.js",
   "repository": {

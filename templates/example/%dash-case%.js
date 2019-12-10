@@ -1,3 +1,5 @@
-const %camel-case% = () => {
-  console.log('Hello %title-case%');
+const %camel-case% = (world) => {
+  console.log('Hello ${world}');
 };
+
+%camel-case%('%last-word%');
